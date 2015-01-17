@@ -1,7 +1,6 @@
 # Notify-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A small example app utilizing the [ember-notify](https://www.npmjs.com/package/ember-notify) addon.
 
 ## Prerequisites
 
