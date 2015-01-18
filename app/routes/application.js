@@ -5,7 +5,7 @@ export default Ember.Route.extend({
 	actions: {
 
 		getInfo: function () {
-			this.notify.info('This is and ember-notify message');
+			this.notify.info('This is an ember-notify message');
 		},
 
 		clickMe: function () {
